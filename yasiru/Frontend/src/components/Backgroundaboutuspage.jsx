@@ -1,6 +1,6 @@
 import React from "react";
-import catImage from "C:/Users/Dell/Desktop/Git/-Pet-care-appointment-system-/yasiru/Frontend/src/Images/Enhanced_Cat_Image.png"; 
-import catImageRotated from "C:/Users/Dell/Desktop/Git/-Pet-care-appointment-system-/yasiru/Frontend/src/Images/Enhanced_Cat_Image_Rotated.PNG"; 
+import catImage from "../Images/Enhanced_Cat_Image.png"; 
+import catImageRotated from "../Images/Enhanced_Cat_Image_Rotated.PNG"; 
 
 
 const Backgroundaboutuspage = () => {

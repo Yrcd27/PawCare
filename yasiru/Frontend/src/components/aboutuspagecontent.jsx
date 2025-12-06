@@ -1,5 +1,5 @@
 import React from "react";
-import vetimgcropped from "C:/Users/Dell/Desktop/Git/-Pet-care-appointment-system-/yasiru/Frontend/src/Images/bg_3 cropped.JPG"; 
+import vetimgcropped from "../Images/bg_3 cropped.JPG"; 
 
 
 const aboutuspagecontent = () => {

@@ -12,7 +12,7 @@ namespace WpdfAppDb
         public DbSet<Services> Products { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite(@"Data Source = C:\Users\Dell\Desktop\Git\-Pet-care-appointment-system-\PawCareApp_WPF\Database\pawcare_app.db");
+            optionsBuilder.UseSqlite(@"Data Source=f:\3rd Semester Projects\PawCare\PawCareApp_WPF\Database\pawcare_app.db");
         }
     }
 }

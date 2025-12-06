@@ -1,5 +1,5 @@
 import React from "react";
-import catImage from "C:/Users/Dell/Desktop/Git/-Pet-care-appointment-system-/yasiru/Frontend/src/Images/AboutUsCAT.png"; // Replace with your actual image path
+import catImage from "../Images/AboutUsCAT.png";
 
 const AboutUs = () => {
   return (
